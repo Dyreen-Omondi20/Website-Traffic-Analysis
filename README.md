@@ -1,0 +1,1 @@
+This project uses Qlik Sense to analyze website traffic, revealing trends in visits, page views, traffic sources, and user behavior. The interactive dashboard helps track performance and make data-driven decisions to improve engagement.
